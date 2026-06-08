@@ -1,4 +1,4 @@
 # demo-project
-this is by firest repository
+this is my  first repository
 <br>
 author ~ aditi srivastava
